@@ -1,0 +1,6 @@
+Ellucian example - https://ssb-prod.ec.uprovidence.edu/PROD/twbkwbis.P_ValLogin
+Microsoft example - https://canvas.stthomas.edu/
+ICS example - https://my.usj.edu/ics/
+Basic example - https://my.sandiego.edu/
+ADFS example - http://my.scranton.edu/
+OKTA example - https://weblogin.usi.edu/
